@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "kbsf.co.kr"
 
 # --- Logo --- #
 
@@ -39,9 +39,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/korea.bobsleigh.skeleton//
+  email: "bob@sports.or.kr"
+  facebook: https://www.facebook.com/korea.bobsleigh.skeleton/
   instagram: https://www.instagram.com/kbsf_official/
   youtube: https://www.youtube.com/channel/UCRGK9H_yCoyxHXVmDYChVeQ
   website: http://www.kbsf.co.kr/
